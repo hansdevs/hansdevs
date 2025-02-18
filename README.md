@@ -1,6 +1,4 @@
-## 📊 GitHub Statistics
-
-![Hansdevs' GitHub Stats](https://github-readme-stats.vercel.app/api?username=hansdevs&show_icons=true&theme=tokyonight&hide_border=true&card_width=450)
+![Hans' GitHub Stats](https://github-readme-stats.vercel.app/api?username=hansdevs&show_icons=true&theme=tokyonight&hide_border=true&card_width=450)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hansdevs&layout=compact&theme=tokyonight&hide_border=true&card_width=450)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hansdevs&theme=tokyo-night&hide_border=true)
 
