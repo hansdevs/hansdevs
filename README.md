@@ -1,28 +1,34 @@
-# Hi! I'm Hans
+<h1 align="center">Hi, I'm Hans</h1>
 
-CS @ Utah State University  
-Full-stack development, systems design, and early-stage SaaS building.
+<p align="center">
+CS @ Utah State University · Full-stack development · Systems design · SaaS builder
+</p>
 
 ---
 
 ## Skills
 **Languages:** Python3, TypeScript, JavaScript, Lua, HTML/CSS, Java, light Swift  
-**Frameworks:** React, Next.js, Tailwind
+**Frameworks:** React, Next.js, Tailwind  
 **Other:** API design, data processing, cloud deployment
 
 ---
 
 ## Projects
-- **Cordinova** — a workforce management SaaS for scheduling and analytics  
-  [cordinova.com](https://cordinova.com)
+**Cordinova** — workforce management SaaS for scheduling and analytics  
+[cordinova.com](https://cordinova.com)
 
-- **Portfolio Website** — personal site showcasing work and projects  
-  [hansgamlien.dev](https://hansgamlien.dev)
+**Portfolio Website** — personal work and projects  
+[hansgamlien.dev](https://hansgamlien.dev)
 
 ---
 
 ## GitHub Activity
+
+<div align="center">
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hansdevs&theme=tokyo-night&hide_border=true)
+
+</div>
 
 ---
 
