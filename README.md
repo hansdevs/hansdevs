@@ -13,13 +13,11 @@ Full-stack development, systems design, and early-stage SaaS building.
 ---
 
 ## Projects
-- **Cordinova — Workforce Management SaaS**  
-  Scheduling, analytics, and operations tools for small businesses  
-  https://cordinova.com  
+- **Cordinova** — a workforce management SaaS for scheduling and analytics  
+  [cordinova.com](https://cordinova.com)
 
-- **Portfolio Website**  
-  Personal site with projects and work  
-  https://hansgamlien.dev  
+- **Portfolio Website** — personal site showcasing work and projects  
+  [hansgamlien.dev](https://hansgamlien.dev)
 
 ---
 
@@ -29,4 +27,4 @@ Full-stack development, systems design, and early-stage SaaS building.
 ---
 
 ## Links
-LinkedIn: https://www.linkedin.com/in/hans-gamlien-59ab1a265
+[LinkedIn](https://www.linkedin.com/in/hans-gamlien-59ab1a265)
