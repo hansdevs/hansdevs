@@ -1,9 +1,32 @@
-![Hans' GitHub Stats](https://github-readme-stats.vercel.app/api?username=hansdevs&show_icons=true&theme=tokyonight&hide_border=true&card_width=450)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hansdevs&layout=compact&theme=tokyonight&hide_border=true&card_width=450)
+# Hi! I'm Hans
+
+CS @ Utah State University  
+Full-stack development, systems design, and early-stage SaaS building.
+
+---
+
+## Skills
+**Languages:** Python3, TypeScript, JavaScript, Lua, HTML/CSS, Java, light Swift  
+**Frameworks:** React, Next.js, Tailwind, shadcn/ui  
+**Other:** API design, data processing, cloud deployment
+
+---
+
+## Projects
+- **Cordinova — Workforce Management SaaS**  
+  Scheduling, analytics, and operations tools for small businesses  
+  https://cordinova.com  
+
+- **Portfolio Website**  
+  Personal site with projects and work  
+  https://hansgamlien.dev  
+
+---
+
+## GitHub Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hansdevs&theme=tokyo-night&hide_border=true)
 
+---
 
-
-### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hans-gamlien-59ab1a265)
-
+## Links
+LinkedIn: https://www.linkedin.com/in/hans-gamlien-59ab1a265
