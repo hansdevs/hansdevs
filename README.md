@@ -7,7 +7,7 @@ Full-stack development, systems design, and early-stage SaaS building.
 
 ## Skills
 **Languages:** Python3, TypeScript, JavaScript, Lua, HTML/CSS, Java, light Swift  
-**Frameworks:** React, Next.js, Tailwind, shadcn/ui  
+**Frameworks:** React, Next.js, Tailwind
 **Other:** API design, data processing, cloud deployment
 
 ---
