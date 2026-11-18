@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hans</h1>
 
 <p align="center">
-  Full-Stack Engineer • Computer Science @ Utah State University
+  Application Developer I @ RR Donnelley • M.S. Computer Science @ Utah State University
 </p>
 
 <p align="center">
@@ -31,9 +31,9 @@
 
 ```jsonc
 {
-  "studying": "B.S. Computer Science @ Utah State University · Dec 2026",
-  "next":     "M.S. Computer Science @ Utah State University · Spring 2027",
-  "open_to":  "new-grad software engineering roles and freelance work"
+  "role":     "Application Developer I @ RR Donnelley",
+  "studying": "M.S. Computer Science @ Utah State University · Spring 2027",
+  "degree":   "B.S. Computer Science @ Utah State University · Dec 2026"
 }
 ```
 
@@ -48,7 +48,6 @@
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
         <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" />
       </p>
